@@ -1,0 +1,17 @@
+Program:  NameAddress.java
+Student:  Anita Rashidian
+Course:   CSC 320 - Programming I
+Purpose:  Prints a fictional person's first name, last name,
+          street address, city, and zip code, each on its own line.
+
+          
+PSEUDOCODE
+
+
+START
+  Set firstName to Eric
+  Set lastName to Cartman
+  Set streetAddress to 28201 E. Bonanza St.
+  Set city to Southpark
+  Set zipCode to 02345
+END
